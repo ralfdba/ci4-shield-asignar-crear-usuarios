@@ -1,0 +1,5 @@
+DB_HOST=localhost
+DB_USER=ci4_user
+DB_PASSWORD=ci4_pass
+DB_NAME=ci4_db
+DB_CHARSET=utf8mb4
